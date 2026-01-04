@@ -79,3 +79,5 @@ miscarriage-quarto/
 ├── default.qmd                                # Fichier par défaut Quarto
 └── README.md   
 └── slides.md                                # Description du projet
+
+Dataset disponible ici : [Télécharger le dataset](https://drive.google.com/file/d/1awRjwGJsnR2Mmxul6WTqT_Q1PvnHA-SR/view?usp=drive_link)
